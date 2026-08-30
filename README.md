@@ -57,7 +57,6 @@ python inference/eval_omni_benchmarrk_source.py \
     --vae_ckpt Alpha-VLLM/Lumina-DiMOO \
     --input_jsonl data/edit_demo.jsonl \
     --edit_type edit_add \
-    --mix_ratio 0.5
 ```
 
 Generated images and source/output comparisons are saved under the checkpoint directory.
