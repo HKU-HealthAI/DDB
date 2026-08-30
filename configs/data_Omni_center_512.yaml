@@ -1,0 +1,10 @@
+META: # Final SFT Data
+#  # Text-to-Image Data --> refer to assets/t2i_sample.json
+#  - path: 'your/t2i/data.json'
+#  # Understanding Data --> refer to assets/mmu_sample.json
+#  - path: 'your/mmu/data.json'
+  # Image-to-Image
+  - path: 'pre_token/edit_all_samples_train_filtered_dev_lumina_train_vae_code-512_center/all_records_with_paths.json'
+
+    # pre_token/edit_MT_train_lumina_vae_code-512/all_records.json
+    # pre_token/edit_all_samples_train_filtered_dev_lumina_train_vae_code-512/all_records.json
