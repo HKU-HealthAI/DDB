@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[📄 arXiv]() &nbsp;|&nbsp; [🤗 DDB_Edit](https://huggingface.co/xing0916/DDB_Edit)
+[📄 arXiv](https://arxiv.org/abs/2608.29997) &nbsp;|&nbsp; [🤗 DDB_Edit](https://huggingface.co/xing0916/DDB_Edit)
 
 </div>
 
